@@ -7,7 +7,7 @@ function Sidebar() {
       <h2>Меню</h2>
       <ul>
         <li>
-          <Link to="/cmdb/">Серверы и ПК</Link>
+          <Link to="/cmdb/endPoints">Серверы и ПК</Link>
         </li>
         <li>
           <Link to="/sec/">Раздел</Link>

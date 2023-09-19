@@ -10,7 +10,7 @@ function App() {
       <div className="App">
         <SideBar />
         <Routes>
-          <Route path="/cmdb/" element={<EndPoints />}></Route>
+          <Route path="/cmdb/endPoints" element={<EndPoints />}></Route>
           <Route path="/sec/"></Route>
         </Routes>
       </div>
